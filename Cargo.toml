@@ -1,0 +1,14 @@
+[package]
+name = "ProofOfHistory"
+version = "0.1.0"
+authors = ["Selic <selich.work@gmail.com>"]
+edition = "2018"
+
+[features]
+unstable = []
+
+[dependencies]
+rayon = "1.0.0"
+itertools = "0.7.6"
+
+
